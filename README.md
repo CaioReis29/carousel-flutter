@@ -1,16 +1,8 @@
 # carousel_flutter
 
-A new Flutter project.
+Para testar, certifique-se de que você tem todos os programas necessários para rodar aplicações em Flutter.
 
-## Getting Started
+## Caso queira fazer sem clonar, coloque no pubspec.yaml, coloque o seguinte comando nas dependências:
+# carousel_slider: ^3.0.0
+# cupertino_icons: ^1.0.0
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
