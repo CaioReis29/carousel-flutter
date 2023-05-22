@@ -1,4 +1,4 @@
-import 'package:carousel_flutter/carousel/carousel_teste.dart';
+import 'package:carousel_flutter/carousel/carousel.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: CarouselTeste(),
+      home: Carousel(),
     );
   }
 }

@@ -15,6 +15,13 @@ final List<String> titulos = [
   'Tendência 4',
 ];
 
+final List<String>linksFotos = [
+  'https://www2.deloitte.com/br/pt/pages/risk/solutions/risk-sensing0.html?id=br:2pm:3gl:4Risk-Sensing:5awa:6oth&gclid=CjwKCAjwpayjBhAnEiwA-7ena2Gguv9AQNFQcbntjUqsftAnfZYCycsYG6A1U9gTV3i9dN',
+  'https://www.pimco.com.br/pt-br/insights/economic-and-market-commentary/?gad=1&gclid=CjwKCAjwpayjBhAnEiwA-7enazJ6dLdWP1VxP9wkSNjx4ioLRox1gCBXkFvZL5myK2LMO1zm2i4oFhoCtD4QAvD_BwE&gclsrc=aw.ds&',
+  'https://neilpatel.com/br/blog/tendencias-de-mercado/',
+  'https://agilize.com.br/blog/tendencias/tendencias-de-mercado/',
+]; 
+
 var _currentIndex = 0;
 
 class CarouselTeste extends StatefulWidget {
